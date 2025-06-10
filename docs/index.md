@@ -27,15 +27,27 @@ El manual se divide a través de varias secciones, cada una con sus paginas corr
 
 - Secciones: Apartados según tematicas generales
 <figure markdown="span">
-  ![Blur - Secciones - Index](assets/blur/index/seccion.png){ loading=lazy width="80%" }
+  ![Blur - Secciones - Index](assets/blur/index/seccion_phone.png){ loading=lazy width="70%" }
+  <figcaption>Secciones - Versión movil</figcaption>
+  
+  ![Blur - Secciones - Index](assets/blur/index/seccion_desktop.png){ loading=lazy width="85%" }
+  <figcaption>Secciones - Versión escritorio</figcaption>
 </figure>
 - Temas: Aspectos especificos en torno a una seccion
 <figure markdown="span">
-  ![Blur - Temas - Index](assets/blur/index/temas.png){ loading=lazy width="80%" }
+  ![Blur - Temas - Index](assets/blur/index/temas_phone.png){ loading=lazy width="70%" }
+  <figcaption>Temas - Versión movil</figcaption>
+  
+  ![Blur - Temas - Index](assets/blur/index/temas_desktop.png){ loading=lazy width="85%" }
+  <figcaption>Temas - Versión escritorio</figcaption>
 </figure>
 - Subtemas: Detalles de cada tema, concretando la información entorno a informar o dar recomendaciones
 <figure markdown="span">
-  ![Blur - Temas - Index](assets/blur/index/subtemas.png){ loading=lazy width="80%" }
+  ![Blur - Subtemas - Index](assets/blur/index/subtemas_phone.png){ loading=lazy width="70%" }
+  <figcaption>Subtemas - Versión movil</figcaption>
+  
+  ![Blur - Subtemas - Index](assets/blur/index/subtemas_desktop.png){ loading=lazy width="85%" }
+  <figcaption>Subtemas - Versión escritorio</figcaption>
 </figure>
 
 <!-- ## Project layout
