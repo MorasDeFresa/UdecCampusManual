@@ -50,6 +50,26 @@ El manual se divide a través de varias secciones, cada una con sus paginas corr
   <figcaption>Subtemas - Versión escritorio</figcaption>
 </figure>
 
+### Categorias
+
+Toda página cuenta con una o mas categorias indexadas, estas se representan por medio de etiquetas, se pueden visualizar en la parte superior de la página, antes del titulo.
+
+Al interactuar con cada etiqueta te redirige al listado de categorias.
+
+<figure markdown="span">
+  ![Blur - Subtemas - Index](assets/blur/index/categorias.png){ loading=lazy width="70%" }
+  <figcaption>Categorias - Sección Bienvenido</figcaption>
+</figure>
+
+### Busqueda y filtrado
+
+En la parte superior a la derecha encontraras una lupa, la cual hace parte de la sección de busqueda. Esta se encargara de filtrar el contenido, teniendo en cuenta la aparición de estos terminos claves en títulos, categorias o en el propio contenido de las páginas.
+
+<figure markdown="span">
+  ![Blur - Subtemas - Index](assets/blur/index/busqueda.png){ loading=lazy width="70%" }
+  <figcaption>Busqueda con el termino "campus"</figcaption>
+</figure>
+
 <!-- ## Project layout
 
     mkdocs.yml    # The configuration file.
