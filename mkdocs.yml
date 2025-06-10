@@ -16,6 +16,7 @@ theme:
     - search.share
   language: es
   name: material
+site_url: https://morasdefresa.github.io/UdecCampusManual
 plugins:
   - search
   - tags:

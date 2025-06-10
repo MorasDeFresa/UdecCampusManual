@@ -9,12 +9,15 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: mkdocs-prod
+      url: https://morasdefresa.github.io/UdecCampusManual
     steps:
       - uses: actions/checkout@v4
       - name: Configure Git Credentials
         run: |
-          git config user.name Juan Castro
-          git config user.email juandcastro@ucundinamarca.edu.co
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
@@ -25,5 +28,5 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
+      - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
