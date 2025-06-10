@@ -9,9 +9,6 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: mkdocs-prod
-      url: https://morasdefresa.github.io/UdecCampusManual
     steps:
       - uses: actions/checkout@v4
       - name: Configure Git Credentials
