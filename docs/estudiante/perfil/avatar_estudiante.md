@@ -6,8 +6,4 @@
 
 ## Vestimenta
 
-## Horarios
-
-### Salon destinado
-
 ## Limitacion
