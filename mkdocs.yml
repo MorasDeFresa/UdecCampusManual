@@ -1,0 +1,29 @@
+site_name: Manual UDEC Universidad de Cundinamarca
+theme:
+  palette:
+    primary: green
+    accent: yellow
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - search.share
+  language: es
+  name: material
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+nav:
+  - Bienvenido: index.md
+  - Categorias: tags.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
