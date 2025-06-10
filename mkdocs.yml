@@ -22,7 +22,9 @@ plugins:
   - tags:
       tags_file: tags.md
 nav:
-  - Bienvenido: index.md
+  - Bienvenido:
+      - Acerca de: index.md
+      - Campus virtual: campusVirtualTridimensional/campus_unity.md
   - Categorias: tags.md
   - Aspirante:
       - Estudia con nosotros: aspirante/estudia_nosotros.md
