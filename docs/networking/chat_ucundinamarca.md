@@ -1,3 +1,10 @@
+---
+tags:
+  - Estudiantes
+  - Académico
+  - Recomendación
+---
+
 # Chat universitario
 
 ## Crear nuevo chat

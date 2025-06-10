@@ -1,3 +1,11 @@
+---
+tags:
+  - Estudiantes
+  - Aspirantes
+  - Académico
+  - Campus virtual
+---
+
 # Entorno 3D
 
 ## Limitaciones

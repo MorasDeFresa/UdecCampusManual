@@ -1,3 +1,11 @@
+---
+tags:
+  - Aspirantes
+  - Soporte
+  - Preguntas
+  - Tutorial
+---
+
 # Soporte Aspirantes
 
 ## Dudas

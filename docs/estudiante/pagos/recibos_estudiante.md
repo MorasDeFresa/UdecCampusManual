@@ -1,3 +1,10 @@
+---
+tags:
+  - Estudiantes
+  - Recomendación
+  - Tutorial
+---
+
 # Recibos de pago
 
 ## Estructura

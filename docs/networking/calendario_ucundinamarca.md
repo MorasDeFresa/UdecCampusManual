@@ -1,3 +1,9 @@
+---
+tags:
+  - Estudiantes
+  - Académico
+---
+
 # Calendario Academico
 
 ## Eventos

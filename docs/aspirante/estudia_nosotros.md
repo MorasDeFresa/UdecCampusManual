@@ -1,3 +1,10 @@
+---
+tags:
+  - Aspirantes
+  - Académico
+  - Tutorial
+---
+
 # Estudia con nosotros
 
 ## Programas disponibles
