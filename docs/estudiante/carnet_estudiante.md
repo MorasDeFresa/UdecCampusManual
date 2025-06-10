@@ -4,6 +4,6 @@ tags:
   - Recomendación
 ---
 
-# Carne estudiantil virtual
+# Carnet estudiantil virtual
 
 ## Aplicacion movil
