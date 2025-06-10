@@ -29,6 +29,7 @@ nav:
   - Aspirante:
       - Estudia con nosotros: aspirante/estudia_nosotros.md
       - Soporte Aspirante: aspirante/soporte_aspirante.md
+  - Apoyo Académico: apoyo_academico.md
   - Bienestar:
       - Calendario de Memorias: bienestar/calendario_bienestar.md
       - Galeria de arte: bienestar/galeria_arte_bienestar.md
@@ -41,6 +42,7 @@ nav:
   - Comunidad / Networking:
       - Calendario Academico: networking/calendario_ucundinamarca.md
       - Chat UDEC: networking/chat_ucundinamarca.md
+      - Foros UDEC: networking/foro_ucundinamarca.md
   - Estudiante:
       - Carnet Estudiantil: estudiante/carnet_estudiante.md
       - Horario: estudiante/horario_estudiante.md
