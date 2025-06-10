@@ -1,4 +1,4 @@
-# Categorias 
+# Categorias
 
 Listado de categorias
 

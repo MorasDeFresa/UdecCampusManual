@@ -25,10 +25,8 @@ Ten en cuenta las siguientes recomendaciones para que tu busqueda a través del 
 
 El manual se divide a través de varias secciones, cada una con sus paginas correspondientes. Estas paginas siempre contaran con los siguientes elementos
 
-* Categorias 
-* Subtemas
-
-
+- Categorias
+- Subtemas
 
 <!-- ## Project layout
 
