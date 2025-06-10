@@ -25,8 +25,18 @@ Ten en cuenta las siguientes recomendaciones para que tu busqueda a través del 
 
 El manual se divide a través de varias secciones, cada una con sus paginas correspondientes. Estas paginas siempre contaran con los siguientes elementos
 
-- Categorias
-- Subtemas
+- Secciones: Apartados según tematicas generales
+<figure markdown="span">
+  ![Blur - Secciones - Index](assets/blur/index/seccion.png){ loading=lazy width="80%" }
+</figure>
+- Temas: Aspectos especificos en torno a una seccion
+<figure markdown="span">
+  ![Blur - Temas - Index](assets/blur/index/temas.png){ loading=lazy width="80%" }
+</figure>
+- Subtemas: Detalles de cada tema, concretando la información entorno a informar o dar recomendaciones
+<figure markdown="span">
+  ![Blur - Temas - Index](assets/blur/index/subtemas.png){ loading=lazy width="80%" }
+</figure>
 
 <!-- ## Project layout
 
