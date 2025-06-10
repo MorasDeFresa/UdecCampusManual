@@ -23,6 +23,30 @@ plugins:
 nav:
   - Bienvenido: index.md
   - Categorias: tags.md
+  - Aspirante:
+      - Estudia con nosotros: aspirante/estudia_nosotros.md
+      - Soporte: aspirante/soporte_aspirante.md
+  - Bienestar:
+      - Calendario de Memorias: bienestar/calendario_bienestar.md
+      - Galeria de arte: bienestar/galeria_arte_bienestar.md
+      - Contenido Informativo:
+          - Actividad Fisica: bienestar/contenidoInformativo/actividad_fisica_contenido_bienestar.md
+          - Alimentación: bienestar/contenidoInformativo/alimentacion_contenido_bienestar.md
+          - Cultural: bienestar/contenidoInformativo/cultural_contenido_bienestar.md
+          - Productividad: bienestar/contenidoInformativo/productividad_contenido_bienestar.md
+          - Salud: bienestar/contenidoInformativo/salud_contenido_bienestar.md
+  - Comunidad / Networking:
+      - Calendario Academico: networking/calendario_ucundinamarca.md
+      - Chat UDEC: networking/chat_ucundinamarca.md
+  - Estudiante:
+      - Carne Estudiantil: estudiante/carne_estudiante.md
+      - Horario: estudiante/horario_estudiante.md
+      - Pagos:
+          - Fraccionar Matricula: estudiante/pagos/fraccionar_matricula_estudiante.md
+          - Recibos de pago: estudiante/pagos/recibos_estudiante.md
+      - Perfil:
+          - Avatar: estudiante/perfil/avatar_estudiante.md
+  - Notificaciones: notificaciones.md
 markdown_extensions:
   - attr_list
   - md_in_html
