@@ -1,7 +1,7 @@
 ---
 tags:
   - Campus virtual
-  - Recomendacion
+  - Recomendación
 ---
 
 # Bienvenido al Campus Virtual
