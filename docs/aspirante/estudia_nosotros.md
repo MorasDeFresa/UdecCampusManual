@@ -65,10 +65,22 @@ En la presentación del programa encontraras:
 
 De esta forma tener una idea más clara del enfoque otorgado por la Universidad de Cundinamarca.
 
-### Descargar pensum
+### Descargar plan de aprendizaje (pensum)
 
-En caso que necesites ver el plan de estudio, lo puedes descargar en formato PDF, este siempre se encontrara en la sección "ENLACES RELACIONADOS". Este archivo contendra las materias de todo tu trayectoria por la facultad, la cantidad de creditos de cada una y cuantos semestres tiene el programa.
+En caso que necesites ver el plan de estudio, lo puedes descargar en formato PDF, este siempre se encontrara en la sección "ENLACES RELACIONADOS", luego debes pulsar o darle click al boton "Ruta de aprendizaje". Este archivo contendra las materias de todo tu trayectoria por la facultad, la cantidad de creditos de cada una y cuantos semestres tiene el programa.
+
+<figure markdown="span">
+  ![Blur - Escoge carrera - Descargar plan de aprendizaje](../assets/blur/estudiaConNosotros/contenidoProgramaAcademico/descargar_pensum_desktop.png){ loading=lazy width="75%"}
+  <figcaption>Descargar ruta de aprendizaje</figcaption>
+</figure>
 
 ## Formulario inscripción
 
-Cuando estes seguro de tu elección, solo dirigete a la parte superior en la presentación del programa y encontras el boton para mandar tu inscripción. Este te redirija a un formulario para llenar con tus datos personales. Luego de haber finalizado mantente atento al correo y telefono registrado para que un asesor te contacte en el menor tiempo posible.
+Cuando estes seguro de tu elección, solo dirigete a la parte superior en la presentación del programa y encontras el boton para mandar tu inscripción. Este te redirija a un formulario para llenar con tus datos personales.
+
+<figure markdown="span">
+  ![Blur - Programa Academico - Inscripcion](../assets/blur/estudiaConNosotros/inscripcion/inscripcion_boton_desktop.png){ loading=lazy width="75%"}
+  ![Blur - Formulario de inscripcion](../assets/blur/estudiaConNosotros/inscripcion/formulario_inscripcion.png){ loading=lazy width="75%"}
+</figure>
+
+Luego de haber finalizado mantente atento al correo y telefono registrado para que un asesor te contacte en el menor tiempo posible.
