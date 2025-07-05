@@ -31,6 +31,7 @@ nav:
       - Soporte Aspirante: aspirante/soporte_aspirante.md
   - Apoyo Académico: apoyo_academico.md
   - Bienestar:
+      - Menu Principal: bienestar/menu_bienestar.md
       - Calendario de Memorias: bienestar/calendario_bienestar.md
       - Galeria de arte: bienestar/galeria_arte_bienestar.md
       - Contenido Informativo:
