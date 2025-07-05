@@ -9,11 +9,27 @@ tags:
 # Apoyo académico
 
 Necesitas solicitar un espacio, algun software, necesitas consultar algun libro o necesitas una tutoria con tu tesis. No dudes en entrar al modulo de apoyo académico.
+
+<figure markdown="span">
+  ![Captura Pantalla- Modulo - Apoyo Academico](../assets/screenshoots/apoyo_academico.png){ loading=lazy width="75%"}
+  <figcaption>Modulo - Apoyo Academico</figcaption>
+</figure>
+
 Este lo encontraras en el menu principal.
+
+<figure markdown="span">
+  ![Blur - Campus Virtual - Menu Principal](../assets/blur/index/menu_principal.png){ loading=lazy width="75%"}
+  ![Blur - Menu Principal - Boton Apoyo Academico](../assets/blur/apoyoAcademico/menu_principal_boton_apoyo_academico.png){ loading=lazy width="75%"}
+</figure>
 
 ## Espacios académicos
 
 Solicita salones o areas para llevar tu proyecto o evento a otro nivel. Recuerda ser puntual con la hora de entrega del espacio.
+
+<figure markdown="span">
+  ![Blur - Campus Virtual - Menu Principal](../assets/blur/apoyoAcademico/apoyo_academico_boton_espacios_academicos.png){ loading=lazy width="75%"}
+  ![Blur - Menu Principal - Boton Apoyo Academico](../assets/screenshoots/espacios_academicos.png){ loading=lazy width="75%"}
+</figure>
 
 ## Solicitud de software
 
