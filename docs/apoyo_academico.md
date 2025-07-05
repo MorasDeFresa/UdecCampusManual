@@ -46,7 +46,7 @@ Este es el modulo abarca necesidades tanto academicas como de bienestar que nece
 
 <figure markdown="span">
   ![Blur - Apoyo Académico - Boton Solicitud Apoyo Académico](../assets/blur/apoyoAcademico/apoyo_academico_boton_apoyo_academico.png){ loading=lazy width="75%"}
-  ![Captura Pantalla - Solicitud de software ](../assets/screenshoots/solicitud_apoyo_academico.png){ loading=lazy width="75%"}
+  ![Captura Pantalla - Solicitud apoyo académico ](../assets/screenshoots/solicitud_apoyo_academico.png){ loading=lazy width="75%"}
 </figure>
 
 ## Biblioteca Virtual
@@ -54,6 +54,6 @@ Este es el modulo abarca necesidades tanto academicas como de bienestar que nece
 Si necesitas revisitar alguna clase virtual o un material academico, no dudes en usar la barra de busqueda de la biblioteca virtual.
 
 <figure markdown="span">
-  ![Blur - Apoyo Académico - Boton Solicitud Apoyo Académico](../assets/blur/apoyoAcademico/apoyo_academico_boton_biblioteca_virtual.png){ loading=lazy width="75%"}
-  ![Captura Pantalla - Solicitud de software ](../assets/screenshoots/biblioteca_virtual.png){ loading=lazy width="75%"}
+  ![Blur - Apoyo Académico - Boton Biblioteca Virtual](../assets/blur/apoyoAcademico/apoyo_academico_boton_biblioteca_virtual.png){ loading=lazy width="75%"}
+  ![Captura Pantalla - Biblioteca Virtual ](../assets/screenshoots/biblioteca_virtual.png){ loading=lazy width="75%"}
 </figure>
